@@ -3,7 +3,7 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 도미노 클로닝 사이트 </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> https://keumju.github.io/cloning_domino/</li></li></li> <br/> ✔ swiper 사용 </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> https://keumju.github.io/cloning_domino/</li></li></li> </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
@@ -11,6 +11,7 @@
           <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
           <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
           </div>
+          <br/> ✔ swiper 사용
     </div>
     <div style="text-align: left;"> 
     
