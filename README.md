@@ -2,7 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=rect&color=e51839&height=120&text=Domino%20Site%20Cloning🍕&animation=&fontColor=ffffff&fontSize=50" />
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 도미노 클로닝 사이트 </h2>  
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 도미노 클로닝 사이트</h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> https://keumju.github.io/cloning_domino/</li></li></li> </div> 
     </div>
     <div style="text-align: left;">
